@@ -27,6 +27,7 @@ The application allows users to log in, create posts, like posts, and add commen
 - Node.js
 - Express.js
 
----
+## 📸 Screenshot
+![Social media app](comment/image.png)
+![Social media app](login/image.png)
 
-## 📁 Project Structure
